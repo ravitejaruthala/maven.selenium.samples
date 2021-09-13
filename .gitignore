@@ -1,0 +1,19 @@
+### Java Template
+
+#Compiled class files
+*.class
+
+#Log files
+*.log
+
+#Package files
+*.jar
+*.war
+*.zip
+*.tar.gz
+*.rar
+*.nar
+*.ear
+
+#General files
+.idea
